@@ -3,22 +3,25 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "29418aa18dc9a6255fc61103d48370ee",
+  "assets/AssetManifest.json": "eda7431c134a1b776a3c731403bee498",
 "assets/FontManifest.json": "07005ddae8c5d3aa47e107c45163a261",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/MyFlutterApp.ttf": "9414adf72cd032704ffc21457cd06945",
+"assets/images/bitcoin.png": "a140e926ada38e66352e52ce6d3f6b7c",
 "assets/images/bmi.png": "e5f79b60e020843fd277d45e8f27f2db",
 "assets/images/chat.png": "837c4288713dbe56af119bf799ccedee",
-"assets/images/covid19.JPG": "54180d2eef5d6263348f7d12f19de92a",
-"assets/images/todolist.JPG": "460475e256e0a5a2cac0dbdbd72163ca",
+"assets/images/ChotaCart.png": "235b4effccf56c5b35fd61f5e186773d",
+"assets/images/clima.png": "dd5dec5071d2cace20e027be16db8e94",
+"assets/images/covid19.png": "4a5d07292ce0240792d9bcd74f646e2e",
+"assets/images/todolist.png": "d19ecb06f95748ca56ca0d859d7f917d",
 "assets/NOTICES": "f30f8b4191dc4e831acc54036842bcfc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "de143dc0467d64b34b8f39b2a448f061",
-"/": "de143dc0467d64b34b8f39b2a448f061",
-"main.dart.js": "89cd0fa521d9cf4c47cc2878b7896e0b",
+"index.html": "5c1cd33145ce4b3862a0b26ee6908d1c",
+"/": "5c1cd33145ce4b3862a0b26ee6908d1c",
+"main.dart.js": "1a50be6df8b76fd1404e9c1b4c8b7db2",
 "manifest.json": "e66a2e250159d2a18c0e6b1df1d4de59"
 };
 
